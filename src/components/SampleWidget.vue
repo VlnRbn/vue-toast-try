@@ -7,7 +7,7 @@ const { showToast } = useAlertToast();
 const message = ref("You have made it");
 
 function presentToast() {
-  showToast({ message: message.value, duration: 30000 });
+  showToast({ message: message.value, duration: 3000 });
 }
 </script>
 
