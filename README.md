@@ -8,6 +8,11 @@ This app do not prioritize on CSS but a simple demo on Vue framework skills
 - [ ] Make it dismiss-able
 - [ ] Add color and position variations
 
+
+<video src="https://user-images.githubusercontent.com/33829319/207823047-e9c36d27-2147-42c1-929e-0408ca07b708.mov" />
+
+
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
