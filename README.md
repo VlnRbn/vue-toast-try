@@ -2,11 +2,11 @@
 
 This app do not prioritize on CSS but a simple demo on Vue framework skills
 
-[x] Create Toast component
-[x] Create composable to trigger
-[ ] Create cypress tests
-[ ] Make it dismiss-able
-[ ] Add color and position variations
+- [x] Create Toast component
+- [x] Create composable to trigger
+- [ ] Create cypress tests
+- [ ] Make it dismiss-able
+- [ ] Add color and position variations
 
 ## Recommended IDE Setup
 
